@@ -11,6 +11,7 @@ Cursando 2ª Série, Ensino Médio/técnico em informática na Instituição Fed
     Cursando 2ª Série, Ensino Médio/técnico em informática na  Instituição Federal De Mato Grosso Do Sul (IFMS)
     
     Cursou o Ensino Fundamental l na Escola Estadual Jan Antonin Bata
+    .
   
 
  
